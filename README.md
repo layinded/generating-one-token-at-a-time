@@ -1,6 +1,6 @@
 # Generating One Token at a Time
 
-This notebook explores how Large Language Models (LLMs) generate text — **one token at a time** — using probability distributions and subword tokenization.
+This notebook explores how Large Language Models (LLMs) generate text **one token at a time** using probability distributions and subword tokenization.
 
 🧠 **Concepts Covered**
 - Subword tokenization
