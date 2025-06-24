@@ -1,0 +1,4 @@
+This was the first time I fully understood how an LLM doesn’t just write,
+it predicts token by token, using math, probability, and context.
+Subword tokenization blew my mind a bit.
+You don’t need to know every word if you can build them.
